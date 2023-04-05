@@ -6,7 +6,7 @@ SESSION_CONFIGS = [
         app_sequence=['infexp_finished'],
         num_demo_participants=3,
         completionlink=
-        'https://app.prolific.co/submissions/complete?cc=11111111',
+        'https://app.prolific.co/submissions/complete?cc=C10BZSQ3',
      ),
 
 ]
